@@ -5,22 +5,22 @@ This system supports both normal and specialised vehicles (refrigerated, tanker)
 
 Scope:
 In Scope
-•	Real-time GPS tracking
-•	Geofencing 
-•	Web-based fleet dashboard live map
-•	Driver behaviour (accelerometer)
-•	Temperature monitoring
+- Real-time GPS tracking
+-	Geofencing 
+-	Web-based fleet dashboard live map
+-	Driver behaviour (accelerometer)
+-	Temperature monitoring
 Out of scope
-•	Video cameras for Driver’s behaviour
-•	Fuel consumption monitoring 
-•	Service history
+-	Video cameras for Driver’s behaviour
+-	Fuel consumption monitoring 
+-	Service history
 Functional Requirements
-•	Display the current location of every active vehicle on a map
-•	Off shift tracks trigger geofencing 
-•	 Temperature alerts
-•	Accelerometer should detect harsh braking, rapid acceleration
+-	Display the current location of every active vehicle on a map
+-	Off shift tracks trigger geofencing 
+-	 Temperature alerts
+-	Accelerometer should detect harsh braking, rapid acceleration
 Non-Functional Requirements
-•	The platform should handle the load
-•	The device must fit any type of trucks 
-•	The driver should not have direct access to the device 
-•	Device must me humidity/temperature immune 
+-	The platform should handle the load
+-	The device must fit any type of trucks 
+- The driver should not have direct access to the device 
+-	Device must me humidity/temperature immune 
